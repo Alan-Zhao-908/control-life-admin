@@ -1,2 +1,0 @@
-# recommendations-service
-recommendations service
